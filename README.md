@@ -34,4 +34,4 @@ A passionate **"SW Testing Engineer"** from Egypt
 ![XD](https://img.shields.io/badge/-XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaRihan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
