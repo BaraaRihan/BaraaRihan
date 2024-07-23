@@ -1,4 +1,4 @@
-![Header]([https://your-image-url](https://user-images.githubusercontent.com/104687525/212586002-4a3d2cbd-fc1b-4eae-bfb2-1bac93773649.jpeg)) <!-- Add your image URL here -->
+![Header]([https://user-images.githubusercontent.com/104687525/212586002-4a3d2cbd-fc1b-4eae-bfb2-1bac93773649.jpeg) <!-- Add your image URL here -->
 
 # Hi 👋, I'm Baraa Rihan
 
