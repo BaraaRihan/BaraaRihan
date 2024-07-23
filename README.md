@@ -4,7 +4,7 @@
 
 A passionate **"SW Testing Engineer"** from Egypt
 
-![Profile views](https://komarev.com/ghpvc/?username=BaraaRihane&label=Profile%20views&color=0e75b6&style=flat) 
+![Profile views](https://komarev.com/ghpvc/?username=your-usernam&label=Profile%20views&color=0e75b6&style=flat) 
 
 - 👀 I'm interested in software testing.
 - 🌱 I'm currently learning automation testing.
