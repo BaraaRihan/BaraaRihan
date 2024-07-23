@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Baraa Rihan
 
-<!--
+
 
 👀 I’m interested in software testing..
 🌱 I’m currently learning automation testing..
@@ -14,4 +14,4 @@ Languages and Tools:
 android azure c csharp cypress figma git html5 java javascript jenkins linux mssql postman python ruby selenium xd
 
 
-**BaraaRihan/BaraaRihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
