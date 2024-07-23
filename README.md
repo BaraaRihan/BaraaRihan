@@ -17,11 +17,12 @@ A passionate **"SW Testing Engineer"** from Egypt
 
 ## Languages and Tools:
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Cucumber](https://img.shields.io/badge/-Cucumber-00D300?style=flat&logo=cucumber&logoColor=white)](https://cucumber.io/)
 [![Gherkin](https://img.shields.io/badge/-Gherkin-5B4638?style=flat&logo=gherkin&logoColor=white)](https://cucumber.io/docs/gherkin/)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-004B49?style=flat&logo=rest-assured&logoColor=white)](https://rest-assured.io/)
 [![JMeter](https://img.shields.io/badge/-JMeter-D12127?style=flat&logo=apache-jmeter&logoColor=white)](https://jmeter.apache.org/)
 [![Appium](https://img.shields.io/badge/-Appium-25A8E0?style=flat&logo=appium&logoColor=white)](https://appium.io/)
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
@@ -30,8 +31,6 @@ A passionate **"SW Testing Engineer"** from Egypt
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 
 
 
