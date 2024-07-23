@@ -10,7 +10,7 @@ A passionate **"SW Testing Engineer"** from Egypt
 - 🌱 I'm currently learning automation testing.
 - 🤝 I'm looking to collaborate on testing challenges.
 - 💻 All of my projects are available at [https://github.com/BaraaRihan](https://github.com/mostafamamdou7)
-- 📫 How to reach me by mail: mostafabdellah@outlook.com
+- 📫 How to reach me by mail: Baraa.rihan@gmail.com
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baraa-rihan/)](https://www.linkedin.com/in/baraa-rihan/) <!-- Add your LinkedIn URL -->
