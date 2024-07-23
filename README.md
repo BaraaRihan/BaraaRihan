@@ -9,7 +9,7 @@ A passionate **"SW Testing Engineer"** from Egypt
 - 👀 I'm interested in software testing.
 - 🌱 I'm currently learning automation testing.
 - 🤝 I'm looking to collaborate on testing challenges.
-- 💻 All of my projects are available at [https://github.com/BaraaRihan](https://github.com/mostafamamdou7)
+- 💻 Still in the process to put all of my projects to be available at [https://github.com/BaraaRihan](https://github.com/BaraaRihan)
 - 📫 How to reach me by mail: Baraa.rihan@gmail.com
 
 ## Connect with me:
